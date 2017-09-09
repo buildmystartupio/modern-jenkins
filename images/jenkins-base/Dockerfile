@@ -18,8 +18,8 @@ ENV uid=1000
 ENV gid=1000
 
 # Jenkins Version info
-ENV JENKINS_VERSION 2.69
-ENV JENKINS_SHA d1ad00f4677a053388113020cf860e05a72cef6ee64f63b830479c6ac5520056
+ENV JENKINS_VERSION 2.77
+ENV JENKINS_SHA 007cf8ef7d0878d7a78a8aa5b5748b629b21496b550a8c0240055f4c822bb2c2
 
 # These URLs can be swapped out for internal repos if needed. Secrets required may vary :)
 ENV JENKINS_UC https://updates.jenkins.io
